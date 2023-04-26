@@ -1,0 +1,21 @@
+04/25/2023 10:10:54 PM: INFO: ====== WebDriver manager ======
+04/25/2023 10:10:56 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/25/2023 10:10:59 PM: INFO: --------------------Test_001_Login---------------------
+04/25/2023 10:10:59 PM: INFO: --------------------Verifying Home Page Title test---------------------
+04/25/2023 10:11:01 PM: ERROR: --------------------Home Page Title is failed---------------------
+04/25/2023 10:11:02 PM: INFO: ====== WebDriver manager ======
+04/25/2023 10:11:03 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/25/2023 10:11:06 PM: INFO: --------------------Verifying Login test---------------------
+04/25/2023 10:11:14 PM: INFO: --------------------Login test is passed---------------------
+04/25/2023 10:13:44 PM: INFO: ====== WebDriver manager ======
+04/25/2023 10:13:45 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/25/2023 10:13:48 PM: INFO: --------------------Test_001_Login---------------------
+04/25/2023 10:13:48 PM: INFO: --------------------Verifying Home Page Title test---------------------
+04/25/2023 10:13:51 PM: ERROR: --------------------Home Page Title is failed---------------------
+04/25/2023 10:13:51 PM: INFO: ====== WebDriver manager ======
+04/25/2023 10:13:53 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/25/2023 10:13:55 PM: INFO: --------------------Verifying Login test---------------------
+04/25/2023 10:13:57 PM: INFO: --------------------Entered username---------------------
+04/25/2023 10:13:57 PM: INFO: --------------------Entered password---------------------
+04/25/2023 10:14:00 PM: INFO: --------------------Clicked on login button---------------------
+04/25/2023 10:14:00 PM: INFO: --------------------Login test is passed---------------------
