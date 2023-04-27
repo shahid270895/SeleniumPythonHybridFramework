@@ -19,3 +19,139 @@
 04/25/2023 10:13:57 PM: INFO: --------------------Entered password---------------------
 04/25/2023 10:14:00 PM: INFO: --------------------Clicked on login button---------------------
 04/25/2023 10:14:00 PM: INFO: --------------------Login test is passed---------------------
+04/26/2023 09:06:18 PM: INFO: ====== WebDriver manager ======
+04/26/2023 09:06:21 PM: INFO: Get LATEST chromedriver version for google-chrome
+04/26/2023 09:06:22 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/26/2023 09:06:34 PM: INFO: Driver has been saved in cache [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49]
+04/26/2023 09:06:38 PM: INFO: --------------------Test_001_Login---------------------
+04/26/2023 09:06:38 PM: INFO: --------------------Verifying Home Page Title test---------------------
+04/26/2023 09:06:46 PM: ERROR: --------------------Home Page Title is failed---------------------
+04/26/2023 09:06:46 PM: INFO: ====== WebDriver manager ======
+04/26/2023 09:06:48 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/26/2023 09:06:50 PM: INFO: --------------------Verifying Login test---------------------
+04/26/2023 09:06:53 PM: INFO: --------------------Entered username---------------------
+04/26/2023 09:06:53 PM: INFO: --------------------Entered password---------------------
+04/26/2023 09:07:01 PM: INFO: --------------------Clicked on login button---------------------
+04/26/2023 09:07:01 PM: INFO: --------------------Login test is passed---------------------
+04/26/2023 09:07:31 PM: INFO: ====== WebDriver manager ======
+04/26/2023 09:07:33 PM: INFO: There is no [win64] geckodriver "latest" for browser firefox "112.0" in cache
+04/26/2023 09:07:33 PM: INFO: Get LATEST geckodriver version for 112.0 firefox
+04/26/2023 09:07:34 PM: INFO: Getting latest mozilla release info for v0.33.0
+04/26/2023 09:07:35 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+04/26/2023 09:07:44 PM: INFO: Driver has been saved in cache [C:\Users\Shahid Aftab\.wdm\drivers\geckodriver\win64\v0.33.0]
+04/26/2023 09:07:55 PM: INFO: --------------------Test_001_Login---------------------
+04/26/2023 09:07:55 PM: INFO: --------------------Verifying Home Page Title test---------------------
+04/26/2023 09:08:02 PM: ERROR: --------------------Home Page Title is failed---------------------
+04/26/2023 09:08:02 PM: INFO: ====== WebDriver manager ======
+04/26/2023 09:08:04 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\geckodriver\win64\v0.33.0\geckodriver.exe] found in cache
+04/26/2023 09:08:13 PM: INFO: --------------------Verifying Login test---------------------
+04/26/2023 09:08:17 PM: INFO: --------------------Entered username---------------------
+04/26/2023 09:08:17 PM: INFO: --------------------Entered password---------------------
+04/26/2023 09:08:23 PM: INFO: --------------------Clicked on login button---------------------
+04/26/2023 09:08:23 PM: INFO: --------------------Login test is passed---------------------
+04/26/2023 09:09:37 PM: INFO: xdist worker is: gw1
+04/26/2023 09:09:37 PM: INFO: xdist worker is: gw0
+04/26/2023 09:09:37 PM: INFO: ====== WebDriver manager ======
+04/26/2023 09:09:37 PM: INFO: ====== WebDriver manager ======
+04/26/2023 09:09:38 PM: INFO: Get LATEST chromedriver version for google-chrome
+04/26/2023 09:09:39 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/26/2023 09:09:44 PM: INFO: Get LATEST chromedriver version for google-chrome
+04/26/2023 09:09:46 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/26/2023 09:09:48 PM: INFO: Driver has been saved in cache [C:\Users\Shahid Aftab\.wdm\gw0\drivers\chromedriver\win32\112.0.5615.49]
+04/26/2023 09:09:51 PM: INFO: --------------------Test_001_Login---------------------
+04/26/2023 09:09:51 PM: INFO: --------------------Verifying Home Page Title test---------------------
+04/26/2023 09:09:52 PM: INFO: Driver has been saved in cache [C:\Users\Shahid Aftab\.wdm\gw1\drivers\chromedriver\win32\112.0.5615.49]
+04/26/2023 09:09:55 PM: ERROR: --------------------Home Page Title is failed---------------------
+04/26/2023 09:09:56 PM: INFO: --------------------Verifying Login test---------------------
+04/26/2023 09:09:59 PM: INFO: --------------------Entered username---------------------
+04/26/2023 09:09:59 PM: INFO: --------------------Entered password---------------------
+04/26/2023 09:10:03 PM: INFO: --------------------Clicked on login button---------------------
+04/26/2023 09:10:03 PM: INFO: --------------------Login test is passed---------------------
+04/26/2023 09:17:11 PM: INFO: xdist worker is: gw1
+04/26/2023 09:17:11 PM: INFO: ====== WebDriver manager ======
+04/26/2023 09:17:13 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\gw1\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/26/2023 09:17:15 PM: INFO: --------------------Verifying Login test---------------------
+04/26/2023 09:17:18 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\gw0\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/26/2023 09:17:19 PM: INFO: --------------------Entered username---------------------
+04/26/2023 09:17:19 PM: INFO: --------------------Entered password---------------------
+04/26/2023 09:17:21 PM: INFO: --------------------Test_001_Login---------------------
+04/26/2023 09:17:21 PM: INFO: --------------------Verifying Home Page Title test---------------------
+04/26/2023 09:17:24 PM: INFO: --------------------Clicked on login button---------------------
+04/26/2023 09:17:24 PM: INFO: --------------------Login test is passed---------------------
+04/26/2023 09:17:25 PM: ERROR: --------------------Home Page Title is failed---------------------
+04/27/2023 02:53:38 PM: INFO: ====== WebDriver manager ======
+04/27/2023 02:53:40 PM: INFO: Get LATEST chromedriver version for google-chrome
+04/27/2023 02:53:42 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/27/2023 02:53:56 PM: INFO: Driver has been saved in cache [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49]
+04/27/2023 02:54:00 PM: INFO: ---------------------Test_002_DDT_Login
+04/27/2023 02:54:00 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 02:56:02 PM: INFO: ====== WebDriver manager ======
+04/27/2023 02:56:03 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/2023 02:56:06 PM: INFO: ---------------------Test_002_DDT_Login
+04/27/2023 02:56:06 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 03:03:32 PM: INFO: ====== WebDriver manager ======
+04/27/2023 03:03:33 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/2023 03:03:36 PM: INFO: ---------------------Test_002_DDT_Login
+04/27/2023 03:03:36 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 03:03:40 PM: INFO: --------------------Entered username---------------------
+04/27/2023 03:03:40 PM: INFO: --------------------Entered password---------------------
+04/27/2023 03:03:46 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 03:03:46 PM: INFO: --------------------Clicked on logout button---------------------
+04/27/2023 03:05:39 PM: INFO: ====== WebDriver manager ======
+04/27/2023 03:05:41 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/2023 03:05:43 PM: INFO: ---------------------Test_002_DDT_Login
+04/27/2023 03:05:43 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 03:05:48 PM: INFO: --------------------Entered username---------------------
+04/27/2023 03:05:48 PM: INFO: --------------------Entered password---------------------
+04/27/2023 03:05:59 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 03:05:59 PM: INFO: --------------------Clicked on logout button---------------------
+04/27/2023 03:06:00 PM: INFO: --------------------DDT Login test is passed---------------------
+04/27/2023 03:08:24 PM: INFO: ====== WebDriver manager ======
+04/27/2023 03:08:26 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/2023 03:08:28 PM: INFO: ---------------------Test_002_DDT_Login
+04/27/2023 03:08:28 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 03:08:33 PM: INFO: --------------------Entered username---------------------
+04/27/2023 03:08:33 PM: INFO: --------------------Entered password---------------------
+04/27/2023 03:08:44 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 03:08:44 PM: INFO: --------------------Clicked on logout button---------------------
+04/27/2023 03:08:45 PM: INFO: --------------------Entered username---------------------
+04/27/2023 03:08:46 PM: INFO: --------------------Entered password---------------------
+04/27/2023 03:08:51 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 03:08:51 PM: INFO: --------------------Clicked on logout button---------------------
+04/27/2023 03:12:25 PM: INFO: xdist worker is: gw1
+04/27/2023 03:12:25 PM: INFO: ====== WebDriver manager ======
+04/27/2023 03:12:25 PM: INFO: xdist worker is: gw0
+04/27/2023 03:12:25 PM: INFO: ====== WebDriver manager ======
+04/27/2023 03:12:27 PM: INFO: Get LATEST chromedriver version for google-chrome
+04/27/2023 03:12:28 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/27/2023 03:12:32 PM: INFO: Get LATEST chromedriver version for google-chrome
+04/27/2023 03:12:35 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/27/2023 03:12:37 PM: INFO: Driver has been saved in cache [C:\Users\Shahid Aftab\.wdm\gw1\drivers\chromedriver\win32\112.0.5615.49]
+04/27/2023 03:12:40 PM: INFO: --------------------Verifying Login test---------------------
+04/27/2023 03:12:40 PM: INFO: Driver has been saved in cache [C:\Users\Shahid Aftab\.wdm\gw0\drivers\chromedriver\win32\112.0.5615.49]
+04/27/2023 03:12:44 PM: INFO: --------------------Entered username---------------------
+04/27/2023 03:12:44 PM: INFO: --------------------Test_001_Login---------------------
+04/27/2023 03:12:44 PM: INFO: --------------------Verifying Home Page Title test---------------------
+04/27/2023 03:12:44 PM: INFO: --------------------Entered password---------------------
+04/27/2023 03:12:48 PM: ERROR: --------------------Home Page Title is failed---------------------
+04/27/2023 03:12:49 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 03:12:49 PM: INFO: --------------------Login test is passed---------------------
+04/27/2023 03:13:28 PM: INFO: ====== WebDriver manager ======
+04/27/2023 03:13:29 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/2023 03:13:32 PM: INFO: ---------------------Test_002_DDT_Login
+04/27/2023 03:13:32 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 03:13:36 PM: INFO: --------------------Entered username---------------------
+04/27/2023 03:13:37 PM: INFO: --------------------Entered password---------------------
+04/27/2023 03:13:47 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 03:13:47 PM: INFO: --------------------Clicked on logout button---------------------
+04/27/2023 03:13:49 PM: INFO: --------------------Entered username---------------------
+04/27/2023 03:13:49 PM: INFO: --------------------Entered password---------------------
+04/27/2023 03:13:54 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 03:13:54 PM: INFO: --------------------Entered username---------------------
+04/27/2023 03:13:54 PM: INFO: --------------------Entered password---------------------
+04/27/2023 03:14:00 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 03:14:00 PM: INFO: --------------------Entered username---------------------
+04/27/2023 03:14:00 PM: INFO: --------------------Entered password---------------------
+04/27/2023 03:14:06 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 03:14:06 PM: INFO: --------------------DDT Login test is passed---------------------
+04/27/2023 03:14:06 PM: INFO: -----------------Completed TC_002_DDT_Login----------------------
