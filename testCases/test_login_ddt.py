@@ -2,7 +2,7 @@ import time
 
 import pytest
 from selenium import webdriver
-from webdrivermanager.chrome import ChromeDriverManager
+from webdriver_manager.chrome import ChromeDriverManager
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
@@ -21,7 +21,7 @@ class Test_002_DDT_Login:
         self.driver = setup
         self.driver.get(self.baseURL)
 
-        self.lp=LoginPage(self.driver)
+        self.lp = LoginPage(self.driver)
 
         self.rows = xlUtils.getRowCount(self.path,'Sheet1')
         print("No. of rows : ", self.rows)

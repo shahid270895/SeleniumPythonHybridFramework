@@ -8,7 +8,7 @@ from webdriver_manager.microsoft import EdgeChromiumDriverManager, IEDriverManag
 @pytest.fixture()
 def setup(browser):
     if browser=='chrome':
-        driver = webdriver.Chrome(ChromeDriverManager().install())
+        driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
         driver.maximize_window()
         driver.implicitly_wait(45)
     elif browser=='firefox':
@@ -16,11 +16,11 @@ def setup(browser):
         driver.maximize_window()
         driver.implicitly_wait(45)
     elif browser=='edge':
-        driver = webdriver.Edge(EdgeChromiumDriverManager().install())
+        driver = webdriver.Edge(executable_path=EdgeChromiumDriverManager().install())
         driver.maximize_window()
         driver.implicitly_wait(45)
     elif browser=='ie':
-        driver = webdriver.Ie(IEDriverManager().install())
+        driver = webdriver.Ie(executable_path=IEDriverManager().install())
         driver.maximize_window()
         driver.implicitly_wait(45)
     return driver

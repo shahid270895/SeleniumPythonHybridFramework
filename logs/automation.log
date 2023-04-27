@@ -174,3 +174,117 @@
 04/27/2023 03:24:09 PM: INFO: --------------------Clicked on login button---------------------
 04/27/2023 03:24:09 PM: INFO: --------------------DDT Login test is passed---------------------
 04/27/2023 03:24:10 PM: INFO: ----------------------Completed TC_002_DDT_Login----------------------
+04/27/2023 09:17:40 PM: INFO: ====== WebDriver manager ======
+04/27/2023 09:17:42 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/2023 09:17:47 PM: INFO: ---------------------Test_002_DDT_Login-------------------------
+04/27/2023 09:17:47 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 09:17:50 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:17:50 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:18:03 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:18:03 PM: INFO: --------------------Clicked on logout button---------------------
+04/27/2023 09:18:05 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:18:05 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:18:11 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:18:11 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:18:11 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:18:17 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:18:17 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:18:17 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:18:23 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:18:23 PM: INFO: --------------------DDT Login test is passed---------------------
+04/27/2023 09:18:23 PM: INFO: ----------------------Completed TC_002_DDT_Login----------------------
+04/27/2023 09:44:54 PM: INFO: ====== WebDriver manager ======
+04/27/2023 09:44:55 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/2023 09:44:58 PM: INFO: ---------------------Test_002_DDT_Login-------------------------
+04/27/2023 09:44:58 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 09:45:02 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:45:02 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:45:12 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:45:12 PM: INFO: --------------------Clicked on logout button---------------------
+04/27/2023 09:45:14 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:45:14 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:45:20 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:45:20 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:45:20 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:45:26 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:45:26 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:45:26 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:45:31 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:45:31 PM: INFO: --------------------DDT Login test is passed---------------------
+04/27/2023 09:45:32 PM: INFO: ----------------------Completed TC_002_DDT_Login----------------------
+04/27/2023 09:50:48 PM: INFO: ====== WebDriver manager ======
+04/27/2023 09:50:50 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/2023 09:50:53 PM: INFO: ---------------------Test_002_DDT_Login-------------------------
+04/27/2023 09:50:53 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 09:50:57 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:50:57 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:51:07 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:51:07 PM: INFO: --------------------Clicked on logout button---------------------
+04/27/2023 09:51:09 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:51:09 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:51:15 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:51:15 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:51:15 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:51:21 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:51:21 PM: INFO: --------------------Entered username---------------------
+04/27/2023 09:51:21 PM: INFO: --------------------Entered password---------------------
+04/27/2023 09:51:28 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 09:51:28 PM: INFO: --------------------DDT Login test is passed---------------------
+04/27/2023 09:51:29 PM: INFO: ----------------------Completed TC_002_DDT_Login----------------------
+04/27/2023 10:04:19 PM: INFO: ====== WebDriver manager ======
+04/27/2023 10:04:21 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/2023 10:04:25 PM: INFO: ---------------------Test_002_DDT_Login-------------------------
+04/27/2023 10:04:25 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 10:04:28 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:04:28 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:04:38 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:04:38 PM: INFO: --------------------Clicked on logout button---------------------
+04/27/2023 10:04:40 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:04:40 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:04:46 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:04:46 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:04:46 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:04:52 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:04:52 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:04:52 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:04:58 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:04:58 PM: INFO: --------------------DDT Login test is passed---------------------
+04/27/2023 10:04:58 PM: INFO: ----------------------Completed TC_002_DDT_Login----------------------
+04/27/2023 10:14:46 PM: INFO: ====== WebDriver manager ======
+04/27/2023 10:14:49 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/2023 10:14:51 PM: INFO: ---------------------Test_002_DDT_Login-------------------------
+04/27/2023 10:14:51 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 10:14:55 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:14:55 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:15:05 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:15:05 PM: INFO: --------------------Clicked on logout button---------------------
+04/27/2023 10:15:07 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:15:07 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:15:13 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:15:13 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:15:13 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:15:19 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:15:19 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:15:19 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:15:25 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:15:25 PM: INFO: --------------------DDT Login test is passed---------------------
+04/27/2023 10:15:25 PM: INFO: ----------------------Completed TC_002_DDT_Login----------------------
+04/27/2023 10:19:49 PM: INFO: ====== WebDriver manager ======
+04/27/2023 10:19:51 PM: INFO: Driver [C:\Users\Shahid Aftab\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/2023 10:19:55 PM: INFO: ---------------------Test_002_DDT_Login-------------------------
+04/27/2023 10:19:55 PM: INFO: --------------------Verifying DDT Login test---------------------
+04/27/2023 10:19:58 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:19:58 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:20:08 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:20:08 PM: INFO: --------------------Clicked on logout button---------------------
+04/27/2023 10:20:10 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:20:10 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:20:16 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:20:16 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:20:16 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:20:22 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:20:22 PM: INFO: --------------------Entered username---------------------
+04/27/2023 10:20:22 PM: INFO: --------------------Entered password---------------------
+04/27/2023 10:20:28 PM: INFO: --------------------Clicked on login button---------------------
+04/27/2023 10:20:28 PM: INFO: --------------------DDT Login test is passed---------------------
+04/27/2023 10:20:28 PM: INFO: ----------------------Completed TC_002_DDT_Login----------------------
