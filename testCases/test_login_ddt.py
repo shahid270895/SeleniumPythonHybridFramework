@@ -16,7 +16,7 @@ class Test_002_DDT_Login:
     logger = LogGen.loggen()
 
     def test_ddt_login(self, setup):
-        self.logger.info("---------------------Test_002_DDT_Login")
+        self.logger.info("---------------------Test_002_DDT_Login-------------------------")
         self.logger.info("--------------------Verifying DDT Login test---------------------")
         self.driver = setup
         self.driver.get(self.baseURL)
@@ -66,5 +66,5 @@ class Test_002_DDT_Login:
             self.driver.close()
             assert False
 
-        self.logger.info("-----------------Completed TC_002_DDT_Login----------------------")
+        self.logger.info("----------------------Completed TC_002_DDT_Login----------------------")
 
